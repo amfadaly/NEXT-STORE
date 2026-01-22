@@ -39,7 +39,7 @@ const Hero = () => {
           </div>
 
           <div className="relative group order-1 lg:order-2 flex justify-center lg:justify-end">
-            <div className="w-full max-w-[320px] aspect-square rounded-2xl bg-gradient-to-tr from-blue-50 to-indigo-50 overflow-hidden border border-white shadow-xl flex items-center justify-center relative">
+            <div className="w-full max-w-[380px] aspect-square rounded-2xl bg-gradient-to-tr from-blue-50 to-indigo-50 overflow-hidden border border-white shadow-xl flex items-center justify-center relative">
               <span className="text-[8rem] filter drop-shadow-lg group-hover:scale-105 transition-transform duration-500">🛍️</span>
               <div className="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm p-3 rounded-xl shadow-lg border border-gray-50 flex items-center gap-3">
                 <div className="bg-green-500 p-1.5 rounded-full text-white">
